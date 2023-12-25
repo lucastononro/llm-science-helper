@@ -14,4 +14,6 @@ Making science more accessible and manageable with your personal science helper
 # Features (developer-perspective):
 - [] Frontend (TBD)
 - [] Backend (TBD)
+  - Ingestion of papers
+  - Multimodal indexing (Text, Tables and Images) 
   
